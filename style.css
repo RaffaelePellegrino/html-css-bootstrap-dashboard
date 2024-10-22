@@ -1,0 +1,24 @@
+ul{
+    list-style: none;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: rgb(115, 117, 120);
+}
+a:hover{
+    color: white;
+    cursor: pointer;
+    list-style: none;
+    text-decoration: none;
+}
+
+.icona{
+    color: rgb(115, 117, 120);
+    font-size: 36px;
+}
+
+.icona:hover{
+    color: white;
+    cursor: pointer;
+}
